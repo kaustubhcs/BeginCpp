@@ -12,7 +12,7 @@ int main() {
 
     husky ktb;
     ktb.nuid = 1234;
-    cout << "Your NUID is " << ktb.nuid;
+    cout << "Your NUID is " << ktb.nuid << endl;
 
 
     // Enumeration Test
