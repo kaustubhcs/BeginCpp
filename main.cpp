@@ -1,5 +1,6 @@
 #include <iostream>
 #include "classtest.cpp"
+#include "enumtest.cpp"
 using namespace std;
 
 int main() {
