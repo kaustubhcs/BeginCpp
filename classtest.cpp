@@ -7,4 +7,8 @@
 class husky {
 public:
     int nuid;
+protected:
+    bool gender;
+private:
+    float income;
 };
