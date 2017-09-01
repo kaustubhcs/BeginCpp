@@ -13,7 +13,7 @@ int main() {
  //   ktb.nuid = 1234;
  //   cout <<
 
-
+    cout<< endl << "Press ENTER to exit code...";
     cin.get();
     return 0;
 
