@@ -18,7 +18,7 @@ int main() {
     // Enumeration Test
 
     CCIS student_1 = good;
-    COE student_1 = best;
+    COE student_2 = best;
 
 
     cout<< endl << "Press ENTER to exit code...";
