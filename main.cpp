@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "classtest.cpp"
 using namespace std;
 
 int main() {
@@ -10,8 +10,8 @@ int main() {
     // Class Test
 
     husky ktb;
-    ktb.nuid = 1234;
-    cout <<
+ //   ktb.nuid = 1234;
+ //   cout <<
 
 
     cin.get();
