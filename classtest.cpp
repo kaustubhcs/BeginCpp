@@ -5,5 +5,6 @@
 #include "classtest.h"
 
 class husky {
+public:
     int nuid;
 };

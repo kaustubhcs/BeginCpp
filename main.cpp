@@ -10,8 +10,8 @@ int main() {
     // Class Test
 
     husky ktb;
- //   ktb.nuid = 1234;
- //   cout <<
+    ktb.nuid = 1234;
+    cout << "Your NUID is " << ktb.nuid;
 
     cout<< endl << "Press ENTER to exit code...";
     cin.get();
