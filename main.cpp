@@ -9,6 +9,9 @@ int main() {
 
     // Class Test
 
+    husky ktb;
+    ktb.nuid = 1234;
+    cout <<
 
 
     cin.get();
