@@ -3,3 +3,7 @@
 //
 
 #include "classtest.h"
+
+class husky {
+    int nuid;
+};
