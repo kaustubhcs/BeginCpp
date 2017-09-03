@@ -23,8 +23,13 @@ int main() {
     cout << "This is student 1: " << student_1 << endl;
     cout << "This is student 2: " << student_2 << endl;
 
+
+    // Program Wait for user exit
+
     cout<< endl << "Press ENTER to exit code...";
     cin.get();
+
+    // ZERO ERROR CODE
     return 0;
 
 
