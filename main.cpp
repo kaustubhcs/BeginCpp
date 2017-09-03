@@ -25,10 +25,10 @@ int main() {
 
 
     // Program Wait for user exit
-
+/*
     cout<< endl << "Press ENTER to exit code...";
     cin.get();
-
+*/
     // ZERO ERROR CODE
     return 0;
 
