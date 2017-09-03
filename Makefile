@@ -1,3 +1,3 @@
 all :
-    main.cpp
-    g++ main.cpp
+	main.cpp
+	g++ -c main.cpp
