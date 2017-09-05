@@ -1,0 +1,5 @@
+Added the following Cron job to Linux Server on AWS
+
+
+cd /home/ec2-user/neu/BeginCpp
+git pull
